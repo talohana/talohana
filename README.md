@@ -51,9 +51,8 @@ And many more goodies ✨
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
+## :zap: Recent Github Activity
+
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#221](https://github.com//codecov/codecov-node/issues/221) in [codecov/codecov-node](https://github.com//codecov/codecov-node)
 2. 🎉 Merged PR [#3](https://github.com//talohana/ngx-storage-api/pull/3) in [talohana/ngx-storage-api](https://github.com//talohana/ngx-storage-api)
@@ -61,8 +60,6 @@ And many more goodies ✨
 4. 🎉 Merged PR [#2](https://github.com//talohana/ngx-storage-api/pull/2) in [talohana/ngx-storage-api](https://github.com//talohana/ngx-storage-api)
 5. ❗️ Closed issue [#1](https://github.com//talohana/ngx-storage-api/issues/1) in [talohana/ngx-storage-api](https://github.com//talohana/ngx-storage-api)
 <!--END_SECTION:activity-->
-
-</details>
 
 [twitter]: https://twitter.com/talohanax
 [linkedin]: https://www.linkedin.com/in/tal-ohana-8a663a146/
