@@ -20,7 +20,6 @@
 [<img align="left" alt="talohana | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev.to]
 
 <br />
-<br />
 
 ### Some of the things I use
 
