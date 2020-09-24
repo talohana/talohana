@@ -38,7 +38,6 @@
 <br />
 <br />
 
----
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -48,7 +47,6 @@
 - [Boost Your TypeScript Project with ESLint, Prettier and lint-staged! 🔥🔥🔥](https://dev.to/talohana/setup-your-typescript-project-with-eslint-prettier-and-lint-staged-25dg)
 - [Dockerizing Angular Development Environment Done Right!](https://medium.com/@tal.ohana.x/dockerizing-angular-development-environment-done-right-4527155578fa?source=rss-f62d142d9ee3------2)
 <!-- BLOG-POST-LIST:END -->
----
 
 ## :zap: Recent Github Activity
 
