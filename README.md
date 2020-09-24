@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a portfolio and some articles
 - 🌱 I’m currently learning Gatsby
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love juggling, my current goals is 5 balls 🤹
+- ⚡ Fun fact: I love juggling, my current goal is 5 balls 🤹
 
 <br />
 
@@ -36,11 +36,6 @@
 <img align="left" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-
-<br />
-<br />
-
-And many more goodies ✨
 
 ---
 
