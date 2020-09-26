@@ -17,7 +17,8 @@
 [<img align="left" alt="talohana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="talohana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="talohana | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="talohana | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev.to]
+[<img align="left" alt="talohana | dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev.to]
+[<img align="left" alt="talohana | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
@@ -64,3 +65,4 @@
 [linkedin]: https://www.linkedin.com/in/tal-ohana-8a663a146/
 [medium]: https://medium.com/@tal.ohana.x
 [dev.to]: https://dev.to/talohana
+[stackoverflow]: https://stackoverflow.com/users/10715502/tal-ohana
