@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript & Nodemon — The Ultimate Setup!](https://levelup.gitconnected.com/typescript-nodemon-the-ultimate-setup-7200aa60cc8b?source=rss-f62d142d9ee3------2)
 - [TypeScript —  Excess Property Checks](https://levelup.gitconnected.com/typescript-excess-property-checks-6ffe5584f450?source=rss-f62d142d9ee3------2)
 - [RxJS & Angular — Unsubscribe Like a Pro](https://medium.com/swlh/rxjs-angular-unsubscribe-like-a-pro-ffeedec60aa7?source=rss-f62d142d9ee3------2)
 - [Fall in love with Angular and Tailwind CSS!](https://medium.com/@tal.ohana.x/fall-in-love-with-angular-and-tailwind-css-51f66d182ff8?source=rss-f62d142d9ee3------2)
 - [Husky and Commitlint for Clean Git Log](https://dev.to/talohana/husky-and-commitlint-for-clean-git-log-44be)
-- [Boost Your TypeScript Project with ESLint, Prettier and lint-staged! 🔥🔥🔥](https://dev.to/talohana/setup-your-typescript-project-with-eslint-prettier-and-lint-staged-25dg)
 <!-- BLOG-POST-LIST:END -->
 ---
 
