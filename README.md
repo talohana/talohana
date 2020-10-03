@@ -54,11 +54,11 @@
 ## :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#221](https://github.com/codecov/codecov-node/issues/221) in [codecov/codecov-node](https://github.com/codecov/codecov-node)
-2. 🎉 Merged PR [#3](https://github.com/talohana/ngx-storage-api/pull/3) in [talohana/ngx-storage-api](https://github.com/talohana/ngx-storage-api)
-3. 💪 Opened PR [#3](https://github.com/talohana/ngx-storage-api/pull/3) in [talohana/ngx-storage-api](https://github.com/talohana/ngx-storage-api)
-4. 🎉 Merged PR [#2](https://github.com/talohana/ngx-storage-api/pull/2) in [talohana/ngx-storage-api](https://github.com/talohana/ngx-storage-api)
-5. ❗️ Closed issue [#1](https://github.com/talohana/ngx-storage-api/issues/1) in [talohana/ngx-storage-api](https://github.com/talohana/ngx-storage-api)
+1. 💪 Opened PR [#50](https://github.com/AlexLakatos/computer-puns/pull/50) in [AlexLakatos/computer-puns](https://github.com/AlexLakatos/computer-puns)
+2. ❌ Closed PR [#1](https://github.com/talohana/computer-puns/pull/1) in [talohana/computer-puns](https://github.com/talohana/computer-puns)
+3. 💪 Opened PR [#1](https://github.com/talohana/computer-puns/pull/1) in [talohana/computer-puns](https://github.com/talohana/computer-puns)
+4. 🗣 Commented on [#58](https://github.com/wKovacs64/gatsby-plugin-use-dark-mode/issues/58) in [wKovacs64/gatsby-plugin-use-dark-mode](https://github.com/wKovacs64/gatsby-plugin-use-dark-mode)
+5. ❗️ Opened issue [#58](https://github.com/wKovacs64/gatsby-plugin-use-dark-mode/issues/58) in [wKovacs64/gatsby-plugin-use-dark-mode](https://github.com/wKovacs64/gatsby-plugin-use-dark-mode)
 <!--END_SECTION:activity-->
 
 [twitter]: https://twitter.com/talohanax
