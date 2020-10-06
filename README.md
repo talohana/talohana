@@ -54,11 +54,11 @@
 ## :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#50](https://github.com/AlexLakatos/computer-puns/pull/50) in [AlexLakatos/computer-puns](https://github.com/AlexLakatos/computer-puns)
-2. ❌ Closed PR [#1](https://github.com/talohana/computer-puns/pull/1) in [talohana/computer-puns](https://github.com/talohana/computer-puns)
-3. 💪 Opened PR [#1](https://github.com/talohana/computer-puns/pull/1) in [talohana/computer-puns](https://github.com/talohana/computer-puns)
-4. 🗣 Commented on [#58](https://github.com/wKovacs64/gatsby-plugin-use-dark-mode/issues/58) in [wKovacs64/gatsby-plugin-use-dark-mode](https://github.com/wKovacs64/gatsby-plugin-use-dark-mode)
-5. ❗️ Opened issue [#58](https://github.com/wKovacs64/gatsby-plugin-use-dark-mode/issues/58) in [wKovacs64/gatsby-plugin-use-dark-mode](https://github.com/wKovacs64/gatsby-plugin-use-dark-mode)
+1. 💪 Opened PR [#9](https://github.com/talohana/angular-dark-mode/pull/9) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
+2. 💪 Opened PR [#8](https://github.com/talohana/angular-dark-mode/pull/8) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
+3. ❗️ Opened issue [#7](https://github.com/talohana/angular-dark-mode/issues/7) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
+4. ❌ Closed PR [#6](https://github.com/talohana/angular-dark-mode/pull/6) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
+5. ❗️ Closed issue [#1](https://github.com/talohana/angular-dark-mode/issues/1) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
 <!--END_SECTION:activity-->
 
 [twitter]: https://twitter.com/talohanax
