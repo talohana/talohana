@@ -54,11 +54,11 @@
 ## :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/talohana/angular-dark-mode/pull/9) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
-2. ❗️ Closed issue [#5](https://github.com/talohana/angular-dark-mode/issues/5) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
-3. 🎉 Merged PR [#8](https://github.com/talohana/angular-dark-mode/pull/8) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
-4. ❗️ Closed issue [#7](https://github.com/talohana/angular-dark-mode/issues/7) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
-5. ❗️ Closed issue [#10](https://github.com/talohana/angular-dark-mode/issues/10) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
+1. ❗️ Opened issue [#27355](https://github.com/gatsbyjs/gatsby/issues/27355) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+2. 🎉 Merged PR [#9](https://github.com/talohana/angular-dark-mode/pull/9) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
+3. ❗️ Closed issue [#5](https://github.com/talohana/angular-dark-mode/issues/5) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
+4. 🎉 Merged PR [#8](https://github.com/talohana/angular-dark-mode/pull/8) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
+5. ❗️ Closed issue [#7](https://github.com/talohana/angular-dark-mode/issues/7) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
 <!--END_SECTION:activity-->
 
 [twitter]: https://twitter.com/talohanax
