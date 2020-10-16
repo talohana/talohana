@@ -54,11 +54,11 @@
 ## :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19859](https://github.com/gatsbyjs/gatsby/issues/19859) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-2. ❗️ Opened issue [#48665](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/48665) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. 💪 Opened PR [#48664](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/48664) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-4. ❗️ Opened issue [#27355](https://github.com/gatsbyjs/gatsby/issues/27355) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-5. 🎉 Merged PR [#9](https://github.com/talohana/angular-dark-mode/pull/9) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
+1. 🗣 Commented on [#144](https://github.com/MichaelDeBoey/gatsby-remark-embedder/issues/144) in [MichaelDeBoey/gatsby-remark-embedder](https://github.com/MichaelDeBoey/gatsby-remark-embedder)
+2. 💪 Opened PR [#146](https://github.com/MichaelDeBoey/gatsby-remark-embedder/pull/146) in [MichaelDeBoey/gatsby-remark-embedder](https://github.com/MichaelDeBoey/gatsby-remark-embedder)
+3. 🗣 Commented on [#19859](https://github.com/gatsbyjs/gatsby/issues/19859) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+4. ❗️ Opened issue [#48665](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/48665) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+5. 💪 Opened PR [#48664](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/48664) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
 [twitter]: https://twitter.com/talohanax
