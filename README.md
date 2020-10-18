@@ -54,11 +54,11 @@
 ## :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#146](https://github.com/MichaelDeBoey/gatsby-remark-embedder/pull/146) in [MichaelDeBoey/gatsby-remark-embedder](https://github.com/MichaelDeBoey/gatsby-remark-embedder)
-2. ❌ Closed PR [#146](https://github.com/MichaelDeBoey/gatsby-remark-embedder/pull/146) in [MichaelDeBoey/gatsby-remark-embedder](https://github.com/MichaelDeBoey/gatsby-remark-embedder)
-3. 💪 Opened PR [#44](https://github.com/codecov/example-node/pull/44) in [codecov/example-node](https://github.com/codecov/example-node)
-4. 🎉 Merged PR [#11](https://github.com/talohana/angular-dark-mode/pull/11) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
-5. 💪 Opened PR [#11](https://github.com/talohana/angular-dark-mode/pull/11) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
+1. ❗️ Closed issue [#48665](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/48665) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+2. ❌ Reopened PR [#146](https://github.com/MichaelDeBoey/gatsby-remark-embedder/pull/146) in [MichaelDeBoey/gatsby-remark-embedder](https://github.com/MichaelDeBoey/gatsby-remark-embedder)
+3. ❌ Closed PR [#146](https://github.com/MichaelDeBoey/gatsby-remark-embedder/pull/146) in [MichaelDeBoey/gatsby-remark-embedder](https://github.com/MichaelDeBoey/gatsby-remark-embedder)
+4. 💪 Opened PR [#44](https://github.com/codecov/example-node/pull/44) in [codecov/example-node](https://github.com/codecov/example-node)
+5. 🎉 Merged PR [#11](https://github.com/talohana/angular-dark-mode/pull/11) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
 <!--END_SECTION:activity-->
 
 [twitter]: https://twitter.com/talohanax
