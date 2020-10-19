@@ -1,16 +1,12 @@
-### Hi there, I'm Tal! 👋
+# Hi there, I'm Tal! 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/talohanax?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftalohana&screen_name=talohanax)
 
-## I'm a Software Developer
+## I'm a Software Engineer
 
-- 🔭 I’m currently working on a portfolio and some articles
+- 🔭 I’m currently working on a [portfolio @ talohana.com][website] and some articles
 - 🌱 I’m currently learning Gatsby
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love juggling, my current goal is 5 balls 🤹
-
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify-now-playing.talohana.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
 ### Connect with me
 
@@ -61,6 +57,7 @@
 5. 🎉 Merged PR [#11](https://github.com/talohana/angular-dark-mode/pull/11) in [talohana/angular-dark-mode](https://github.com/talohana/angular-dark-mode)
 <!--END_SECTION:activity-->
 
+[website]: https://talohana.com
 [twitter]: https://twitter.com/talohanax
 [linkedin]: https://www.linkedin.com/in/tal-ohana-8a663a146/
 [medium]: https://medium.com/@tal.ohana.x
