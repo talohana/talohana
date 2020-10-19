@@ -35,18 +35,6 @@
 <br />
 <br />
 
----
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Turn Off the Lights With Angular-Dark-Mode](https://medium.com/better-programming/turn-off-the-lights-with-angular-dark-mode-194241f491ae?source=rss-f62d142d9ee3------2)
-- [TypeScript & Nodemon — The Ultimate Setup!](https://levelup.gitconnected.com/typescript-nodemon-the-ultimate-setup-7200aa60cc8b?source=rss-f62d142d9ee3------2)
-- [TypeScript —  Excess Property Checks](https://levelup.gitconnected.com/typescript-excess-property-checks-6ffe5584f450?source=rss-f62d142d9ee3------2)
-- [RxJS & Angular — Unsubscribe Like a Pro](https://medium.com/swlh/rxjs-angular-unsubscribe-like-a-pro-ffeedec60aa7?source=rss-f62d142d9ee3------2)
-- [Fall in love with Angular and Tailwind CSS!](https://medium.com/@tal.ohana.x/fall-in-love-with-angular-and-tailwind-css-51f66d182ff8?source=rss-f62d142d9ee3------2)
-<!-- BLOG-POST-LIST:END -->
----
-
 ## :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
