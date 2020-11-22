@@ -38,11 +38,11 @@
 ## :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26375](https://github.com/gatsbyjs/gatsby/issues/26375) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-2. 💪 Opened PR [#28029](https://github.com/gatsbyjs/gatsby/pull/28029) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-3. ❗️ Opened issue [#28027](https://github.com/gatsbyjs/gatsby/issues/28027) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-4. 🗣 Commented on [#43](https://github.com/commitizen/cz-cli/issues/43) in [commitizen/cz-cli](https://github.com/commitizen/cz-cli)
-5. ❗️ Closed issue [#48665](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/48665) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+1. 🗣 Commented on [#11](https://github.com/ben-rogerson/twin.macro/issues/11) in [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro)
+2. 🗣 Commented on [#26375](https://github.com/gatsbyjs/gatsby/issues/26375) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+3. 💪 Opened PR [#28029](https://github.com/gatsbyjs/gatsby/pull/28029) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+4. ❗️ Opened issue [#28027](https://github.com/gatsbyjs/gatsby/issues/28027) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+5. 🗣 Commented on [#43](https://github.com/commitizen/cz-cli/issues/43) in [commitizen/cz-cli](https://github.com/commitizen/cz-cli)
 <!--END_SECTION:activity-->
 
 [website]: https://talohana.com
