@@ -3,13 +3,14 @@
 
 ## I'm a Software Engineer
 
-- 🔭 I’m currently working on a [portfolio @ talohana.com][website] and some articles
-- 🌱 I’m currently learning Gatsby
+- 🔭 I’m currently working on [my personal site][website]
+- 🌱 I’m currently learning Gatsby, browsers and SEO
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love juggling, my current goal is 5 balls 🤹
 
 ### Connect with me
 
+[<img align="left" alt="talohana | talohana.com" width="22px" src="https://gist.githubusercontent.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/a67d05d17c46f56bdd34b6859e3e657954db9096/brand.svg" />][twitter]
 [<img align="left" alt="talohana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="talohana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="talohana | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
