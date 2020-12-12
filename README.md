@@ -39,11 +39,11 @@
 ## :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#41839](https://github.com/microsoft/TypeScript/issues/41839) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-2. ❗️ Opened issue [#41839](https://github.com/microsoft/TypeScript/issues/41839) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-3. 🗣 Commented on [#11](https://github.com/ben-rogerson/twin.macro/issues/11) in [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro)
-4. 🗣 Commented on [#26375](https://github.com/gatsbyjs/gatsby/issues/26375) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-5. 💪 Opened PR [#28029](https://github.com/gatsbyjs/gatsby/pull/28029) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+1. ❗️ Opened issue [#157](https://github.com/dsznajder/vscode-es7-javascript-react-snippets/issues/157) in [dsznajder/vscode-es7-javascript-react-snippets](https://github.com/dsznajder/vscode-es7-javascript-react-snippets)
+2. ❗️ Closed issue [#41839](https://github.com/microsoft/TypeScript/issues/41839) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+3. ❗️ Opened issue [#41839](https://github.com/microsoft/TypeScript/issues/41839) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+4. 🗣 Commented on [#11](https://github.com/ben-rogerson/twin.macro/issues/11) in [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro)
+5. 🗣 Commented on [#26375](https://github.com/gatsbyjs/gatsby/issues/26375) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
 <!--END_SECTION:activity-->
 
 [website]: https://talohana.com
