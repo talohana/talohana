@@ -10,12 +10,12 @@
 
 ### Connect with me
 
-[<img align="left" alt="talohana | talohana.com" width="22px" src="https://gist.githubusercontent.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/a67d05d17c46f56bdd34b6859e3e657954db9096/brand.svg" />][twitter]
-[<img align="left" alt="talohana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="talohana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="talohana | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="talohana | dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev.to]
-[<img align="left" alt="talohana | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="talohana | talohana.com" width="22px" src="https://gist.github.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/3ad8f9cd95772ccf965993c65bbb66c4d2ccb0a1/brand.svg" />][website]
+[<img align="left" alt="talohana | Twitter" width="22px" src="https://gist.github.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/3ad8f9cd95772ccf965993c65bbb66c4d2ccb0a1/twitter.svg" />][twitter]
+[<img align="left" alt="talohana | LinkedIn" width="22px" src="https://gist.github.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/3ad8f9cd95772ccf965993c65bbb66c4d2ccb0a1/linkedin.svg" />][linkedin]
+[<img align="left" alt="talohana | Medium" width="22px" src="https://gist.github.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/3ad8f9cd95772ccf965993c65bbb66c4d2ccb0a1/medium.svg" />][medium]
+[<img align="left" alt="talohana | dev.to" width="22px" src="https://gist.github.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/3ad8f9cd95772ccf965993c65bbb66c4d2ccb0a1/dev-dot-to.svg" />][dev.to]
+[<img align="left" alt="talohana | StackOverflow" width="22px" src="https://gist.github.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/3ad8f9cd95772ccf965993c65bbb66c4d2ccb0a1/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
