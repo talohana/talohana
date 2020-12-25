@@ -1,12 +1,11 @@
 # Hi there, I'm Tal! 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/talohanax?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftalohana&screen_name=talohanax)
+[![Twitter Follow](https://img.shields.io/twitter/follow/talohanax?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftalohana&screen_name=talohanax)  
+![Profile Views Counter](https://komarev.com/ghpvc/?username=talohana)
 
 ## I'm a Software Engineer
 
 - 🔭 I’m currently working on [my personal site][website]
-- 🌱 I’m currently learning Gatsby, browsers and SEO
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love juggling, my current goal is 5 balls 🤹
+- 🌱 I’m a JavaScript enthusiast, always learning new frameworks and libraries
 
 ### Connect with me
 
