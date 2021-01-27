@@ -37,11 +37,11 @@
 ## :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#59](https://github.com/dividab/tsconfig-paths-webpack-plugin/issues/59) in [dividab/tsconfig-paths-webpack-plugin](https://github.com/dividab/tsconfig-paths-webpack-plugin)
-2. ❗️ Opened issue [#157](https://github.com/dsznajder/vscode-es7-javascript-react-snippets/issues/157) in [dsznajder/vscode-es7-javascript-react-snippets](https://github.com/dsznajder/vscode-es7-javascript-react-snippets)
-3. ❗️ Closed issue [#41839](https://github.com/microsoft/TypeScript/issues/41839) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-4. ❗️ Opened issue [#41839](https://github.com/microsoft/TypeScript/issues/41839) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-5. 🗣 Commented on [#11](https://github.com/ben-rogerson/twin.macro/issues/11) in [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro)
+1. 🗣 Commented on [#132](https://github.com/timhagn/gatsby-background-image/issues/132) in [timhagn/gatsby-background-image](https://github.com/timhagn/gatsby-background-image)
+2. ❗️ Opened issue [#59](https://github.com/dividab/tsconfig-paths-webpack-plugin/issues/59) in [dividab/tsconfig-paths-webpack-plugin](https://github.com/dividab/tsconfig-paths-webpack-plugin)
+3. ❗️ Opened issue [#157](https://github.com/dsznajder/vscode-es7-javascript-react-snippets/issues/157) in [dsznajder/vscode-es7-javascript-react-snippets](https://github.com/dsznajder/vscode-es7-javascript-react-snippets)
+4. ❗️ Closed issue [#41839](https://github.com/microsoft/TypeScript/issues/41839) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+5. ❗️ Opened issue [#41839](https://github.com/microsoft/TypeScript/issues/41839) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
 <!--END_SECTION:activity-->
 
 [website]: https://talohana.com
