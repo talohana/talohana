@@ -1,6 +1,5 @@
 # Hi there, I'm Tal! 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/talohanax?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftalohana&screen_name=talohanax)  
 ![Profile Views Counter](https://komarev.com/ghpvc/?username=talohana)
 
 [<img align="left" alt="talohana | talohana.com" width="32px" src="https://gist.github.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/3ad8f9cd95772ccf965993c65bbb66c4d2ccb0a1/brand.svg" />][website]
