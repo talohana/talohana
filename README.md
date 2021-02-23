@@ -1,10 +1,21 @@
 # Hi there, I'm Tal! 👋
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/talohanax?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftalohana&screen_name=talohanax)  
 ![Profile Views Counter](https://komarev.com/ghpvc/?username=talohana)
 
-![talohana's GitHub stats](https://github-readme-stats.vercel.app/api?username=talohana&show_icons=true&countprivate=true&theme=dracula)  
+[<img align="left" alt="talohana | talohana.com" width="32px" src="https://gist.github.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/3ad8f9cd95772ccf965993c65bbb66c4d2ccb0a1/brand.svg" />][website]
+[<img align="left" alt="talohana | Twitter" width="32px" src="https://gist.github.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/3ad8f9cd95772ccf965993c65bbb66c4d2ccb0a1/twitter.svg" />][twitter]
+[<img align="left" alt="talohana | LinkedIn" width="32px" src="https://gist.github.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/3ad8f9cd95772ccf965993c65bbb66c4d2ccb0a1/linkedin.svg" />][linkedin]
+[<img align="left" alt="talohana | Medium" width="32px" src="https://gist.githubusercontent.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/d321be7f5382f1e3b7faf5e1b549d31522269ade/medium.svg" />][medium]
+[<img align="left" alt="talohana | dev.to" width="32px" src="https://gist.githubusercontent.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/d321be7f5382f1e3b7faf5e1b549d31522269ade/dev-dot-to.svg" />][dev.to]
+[<img align="left" alt="talohana | StackOverflow" width="32px" src="https://gist.github.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/3ad8f9cd95772ccf965993c65bbb66c4d2ccb0a1/stackoverflow.svg" />][stackoverflow]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talohana&theme=dracula)  
+<br />
+<br />
+
+![talohana's GitHub stats](https://github-readme-stats.vercel.app/api?username=talohana&show_icons=true&countprivate=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talohana&theme=dracula)
 
 [![Github Metrices](./github-metrics.svg)][website]
 
