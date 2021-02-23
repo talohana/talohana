@@ -2,7 +2,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/talohanax?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftalohana&screen_name=talohanax)  
 ![Profile Views Counter](https://komarev.com/ghpvc/?username=talohana)
 
-![Github Metrices](https://github.com/talohana/talohana/blob/master/github-metrics.svg)
+![Github Metrices](./github-metrics.svg)
 
 [website]: https://talohana.com
 [twitter]: https://twitter.com/talohanax
