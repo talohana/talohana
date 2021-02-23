@@ -22,4 +22,10 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          config_timezone: Jerusalem
+          config_timezone: Asia/Jerusalem
+          # PageSpeed
+          plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_screenshot: no
+          plugin_pagespeed_url: .user.website
