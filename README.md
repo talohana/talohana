@@ -2,8 +2,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/talohanax?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftalohana&screen_name=talohanax)  
 ![Profile Views Counter](https://komarev.com/ghpvc/?username=talohana)
 
-![talohana's GitHub stats](https://github-readme-stats.vercel.app/api?username=talohana&show_icons=true&countprivate=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talohana&theme=dracula)
+![talohana's GitHub stats](https://github-readme-stats.vercel.app/api?username=talohana&show_icons=true&countprivate=true&theme=dracula)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talohana&theme=dracula)  
+
 [![Github Metrices](./github-metrics.svg)][website]
 
 [website]: https://talohana.com
