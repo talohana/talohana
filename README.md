@@ -1,7 +1,7 @@
 # Hi there, I'm Tal! 👋
-![Profile Views Counter](https://komarev.com/ghpvc/?username=talohana)
+
 - 🔭 I’m currently working on improving and polishing [my portfolio][website]
-- 🌱 I’m currently learning Next.js 
+- 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate, hit me up!
 
 ## Connect with Me
@@ -20,9 +20,9 @@
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-## Some Stats
+## Some Numbers About Me
 
 ![talohana's GitHub stats](https://github-readme-stats.vercel.app/api?username=talohana&show_icons=true&include_all_commits=true&countprivate=true&theme=dracula)
 
