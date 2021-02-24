@@ -7,8 +7,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
