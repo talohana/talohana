@@ -5,9 +5,6 @@
 [<img align="left" alt="talohana | talohana.com" width="32px" src="https://gist.github.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/3ad8f9cd95772ccf965993c65bbb66c4d2ccb0a1/brand.svg" />][website]
 [<img align="left" alt="talohana | Twitter" width="32px" src="https://gist.github.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/3ad8f9cd95772ccf965993c65bbb66c4d2ccb0a1/twitter.svg" />][twitter]
 [<img align="left" alt="talohana | LinkedIn" width="32px" src="https://gist.github.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/3ad8f9cd95772ccf965993c65bbb66c4d2ccb0a1/linkedin.svg" />][linkedin]
-[<img align="left" alt="talohana | Medium" width="32px" src="https://gist.githubusercontent.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/d321be7f5382f1e3b7faf5e1b549d31522269ade/medium.svg" />][medium]
-[<img align="left" alt="talohana | dev.to" width="32px" src="https://gist.githubusercontent.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/d321be7f5382f1e3b7faf5e1b549d31522269ade/dev-dot-to.svg" />][dev.to]
-[<img align="left" alt="talohana | StackOverflow" width="32px" src="https://gist.github.com/talohana/d6fb11e6b35272ea6d77ba0445ab5985/raw/3ad8f9cd95772ccf965993c65bbb66c4d2ccb0a1/stackoverflow.svg" />][stackoverflow]
 
 <br />
 <br />
