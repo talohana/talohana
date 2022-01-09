@@ -26,8 +26,6 @@
 
 ![talohana's GitHub stats](https://github-readme-stats.vercel.app/api?username=talohana&show_icons=true&theme=dracula)
 
-[![Github Metrices](./github-metrics.svg)][website]
-
 [website]: https://talohana.com
 [twitter]: https://twitter.com/talohanax
 [linkedin]: https://www.linkedin.com/in/tal-ohana-8a663a146/
