@@ -24,7 +24,7 @@
 
 ## Some Numbers About Me
 
-![talohana's GitHub stats](https://github-readme-stats.vercel.app/api?username=talohana&show_icons=true&theme=dracula)
+![talohana's GitHub stats](https://github-readme-stats.vercel.app/api?username=talohana&show_icons=true&theme=dracula)  
 ![talohana.com Metrics](./github-metrics.svg)
 
 [website]: https://talohana.com
