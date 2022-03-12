@@ -16,6 +16,3 @@
 [website]: https://talohana.com
 [twitter]: https://twitter.com/talohanax
 [linkedin]: https://www.linkedin.com/in/tal-ohana-8a663a146/
-[medium]: https://medium.com/@tal.ohana.x
-[dev.to]: https://dev.to/talohana
-[stackoverflow]: https://stackoverflow.com/users/10715502/tal-ohana
